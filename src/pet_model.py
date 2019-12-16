@@ -9,3 +9,9 @@ class Cats(db.Model):
     name = db.Column(db.String(100))
     price = db.Column(db.Integer)
     breed = db.Column(db.String(100))
+
+
+
+
+
+
